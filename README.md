@@ -11,7 +11,7 @@ This project aims to create a comprehensive dataset of Disney movies by leveragi
 * Export to CSV: The final dataset is saved in the CSV format, enabling easy integration with various data analysis tools and platforms.
 ## Getting Started
 To get started with this project, follow the steps below:
-1. Clone the repository: git clone https://github.com/your-username/web-scraping-disney.git
+1. Clone the repository: git clone https://github.com/ziko-coder/Web-Scraping/tree/master
 2. Install the required dependencies: pip install -r requirements.txt
 3. Run the main script: python scrape.py
 4. Explore the generated dataset: data/disney_movies.csv
